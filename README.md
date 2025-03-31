@@ -3,7 +3,6 @@ Repo for SIET AWS Assignments
 
 # 1 ETC
 
-## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
 ![image](https://github.com/user-attachments/assets/ca173b92-c3cd-4c87-8d54-b15e76359a44)
 
 
@@ -18,27 +17,19 @@ Repo for SIET AWS Assignments
 
 # 3 AWS 3 Tier Architecture Implementation
 
-## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
-
-## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+https://dev.to/naveenkumarj/deploying-a-3-tier-application-5e4o
 
 
 # 4 AWS 101 Workshop
 URL: https://catalog.workshops.aws/aws101/en-US
 
-## Please add the screenshot of the final page of the AWS 101 Workshop
 ![image](https://github.com/user-attachments/assets/399fcd18-3f3c-43fe-b347-d350838d44a7)
 
-
-## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
 https://dev.to/naveenkumarj/aws-101-workshop-8ma
 
 
 # 5 AWS Service (Rekognition)
 
-## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
 https://dev.to/naveenkumarj/amazon-rekognition-3e4m
 
 
