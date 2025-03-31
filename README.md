@@ -29,13 +29,14 @@ Repo for SIET AWS Assignments
 URL: https://catalog.workshops.aws/aws101/en-US
 
 ## Please add the screenshot of the final page of the AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
+![image](https://github.com/user-attachments/assets/399fcd18-3f3c-43fe-b347-d350838d44a7)
+
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
+https://dev.to/naveenkumarj/aws-101-workshop-8ma
 
 
-# 5 AWS Service
+# 5 AWS Service (Rekognition)
 
 ## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
 https://dev.to/naveenkumarj/amazon-rekognition-3e4m
